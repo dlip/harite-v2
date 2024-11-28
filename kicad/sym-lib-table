@@ -3,4 +3,5 @@
   (lib (name "SKRHADE010")(type "KiCad")(uri "${KIPRJMOD}/libraries/harite/symbols/SKRHADE010.kicad_sym")(options "")(descr ""))
   (lib (name "ScottoKeebs")(type "KiCad")(uri "${KIPRJMOD}/libraries/ScottoKicad/symbols/ScottoKeebs.kicad_sym")(options "")(descr ""))
   (lib (name "USBType-C")(type "Legacy")(uri "${KIPRJMOD}/libraries/harite/symbols/Type-C.lib")(options "")(descr ""))
+  (lib (name "503480-0500")(type "KiCad")(uri "${KIPRJMOD}/libraries/harite/symbols/503480-0500.kicad_sym")(options "")(descr ""))
 )
