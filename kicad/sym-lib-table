@@ -5,4 +5,5 @@
   (lib (name "USBType-C")(type "Legacy")(uri "${KIPRJMOD}/libraries/harite/symbols/Type-C.lib")(options "")(descr ""))
   (lib (name "5034800540")(type "KiCad")(uri "${KIPRJMOD}/libraries/harite/symbols/5034800540.kicad_sym")(options "")(descr ""))
   (lib (name "5034801000")(type "KiCad")(uri "${KIPRJMOD}/libraries/harite/symbols/5034801000.kicad_sym")(options "")(descr ""))
+  (lib (name "5034801200")(type "KiCad")(uri "${KIPRJMOD}/libraries/harite/symbols/5034801200.kicad_sym")(options "")(descr ""))
 )
