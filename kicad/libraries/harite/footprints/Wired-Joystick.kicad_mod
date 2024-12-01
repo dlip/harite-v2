@@ -80,7 +80,7 @@
 			(justify left bottom)
 		)
 	)
-	(fp_text user "G"
+	(fp_text user "-"
 		(at 2 2.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
@@ -119,7 +119,7 @@
 			(justify left bottom)
 		)
 	)
-	(fp_text user "V"
+	(fp_text user "+"
 		(at -5.5 2.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
@@ -183,5 +183,17 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "2dc59d81-41cd-48f5-b5e5-58b53917c354")
+	)
+	(group ""
+		(uuid "eaae1b55-812d-4049-a39e-72be8e182a93")
+		(members "00040f81-c395-4e0b-a31a-7c0306a5b1bf" "19e1d6f9-7198-4b3f-9f28-7dc96e1961fe"
+			"1ad99180-3708-4a8b-96bd-7d6741283429" "21b77854-f7f5-46c9-877d-99c6209ab304"
+			"299c945b-4b29-42e8-85d1-8f0baeff9eab" "2dc59d81-41cd-48f5-b5e5-58b53917c354"
+			"39153032-6957-4986-acaa-655b7ab60309" "522e88a7-619d-431c-98f9-ffb699f075a9"
+			"659f3fd9-460b-4cb0-a604-8bbba3a68e28" "745b4b03-9187-4337-8dcf-9cdece576dfd"
+			"8b24dae4-9026-432c-b370-e168192845a4" "94391035-809f-488f-9060-82a8a1c4624d"
+			"aabe8276-d3a5-4986-98b0-d717b37186d2" "aae0f1a0-1658-4a33-b156-57cf7b7b03da"
+			"cfc1ae1a-e3d9-4650-a010-fab97e6ae1de" "db4e258b-8e1a-4cc3-b68b-f3fd6d47addf"
+		)
 	)
 )

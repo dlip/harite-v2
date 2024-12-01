@@ -1,0 +1,146 @@
+(footprint "joycon"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.99")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0bc24a6c-58f2-45ea-aad2-decf0d44fa5d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "joycon"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "19a980ee-8f5e-4814-9d70-c8c2800a1cac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 -1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6643b8a0-5a05-4237-94fe-01a4ad991a62")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 -1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "508a0511-c374-4876-a460-b437802ebae8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 -1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a1485991-1fa8-432b-b75e-2b79c6ec1569")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_rect
+		(start -9.5 -8.5)
+		(end 9.5 8.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "2b7d1295-e737-4d35-a891-12add98c2910")
+	)
+	(fp_rect
+		(start 4.5 8.5)
+		(end 9.5 12.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "c4669e81-9e0a-4aba-96aa-1e8507abbd1f")
+	)
+	(fp_rect
+		(start 9.5 10)
+		(end 21.5 12.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "8edb634e-75dc-446a-97ae-0e633a6e8919")
+	)
+	(fp_circle
+		(center -7.914213 -10)
+		(end -8.914213 -9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "f1c6ebb0-0f34-4d25-9744-9762d53b35c3")
+	)
+	(fp_circle
+		(center 11 7)
+		(end 10 8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "0dc92861-7e29-44ce-8ea0-41aebfb50696")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 1.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5b45bcff-8466-4579-8b17-2504bffb61bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(group ""
+		(uuid "597a4f66-dc3f-41df-a651-8e3d55106434")
+		(members "0bc24a6c-58f2-45ea-aad2-decf0d44fa5d" "0dc92861-7e29-44ce-8ea0-41aebfb50696"
+			"19a980ee-8f5e-4814-9d70-c8c2800a1cac" "2b7d1295-e737-4d35-a891-12add98c2910"
+			"508a0511-c374-4876-a460-b437802ebae8" "5b45bcff-8466-4579-8b17-2504bffb61bf"
+			"6643b8a0-5a05-4237-94fe-01a4ad991a62" "8edb634e-75dc-446a-97ae-0e633a6e8919"
+			"a1485991-1fa8-432b-b75e-2b79c6ec1569" "c4669e81-9e0a-4aba-96aa-1e8507abbd1f"
+			"f1c6ebb0-0f34-4d25-9744-9762d53b35c3"
+		)
+	)
+)
