@@ -2284,22 +2284,22 @@
 	)
 	(global_label "ERow 1"
 		(shape input)
-		(at 140.97 121.92 270)
+		(at 205.74 132.08 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "0ca9a492-41f6-49fa-9c95-72c535101aa5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.97 131.9808 90)
+			(at 205.74 122.0192 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -2350,22 +2350,22 @@
 	)
 	(global_label "ERow 2"
 		(shape input)
-		(at 143.51 121.92 270)
+		(at 203.2 132.08 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "1660ca9d-dd4c-424c-a753-68e6bedb2030")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 131.9808 90)
+			(at 203.2 122.0192 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -2460,44 +2460,44 @@
 	)
 	(global_label "ECol 5"
 		(shape input)
-		(at 135.89 121.92 270)
+		(at 210.82 132.08 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "1c1acc3c-3dab-4d61-87f7-000ba5ba71d3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 135.89 131.3155 90)
+			(at 210.82 122.6845 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "ERow 5"
 		(shape input)
-		(at 133.35 121.92 270)
+		(at 213.36 132.08 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "1dff3f57-4775-45a4-8857-d0a916bdad90")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.35 131.9808 90)
+			(at 213.36 122.0192 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -2548,22 +2548,22 @@
 	)
 	(global_label "JC"
 		(shape input)
-		(at 109.22 83.82 90)
+		(at 160.02 107.95 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "2130b16e-9e92-4407-af86-a2ae28861640")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 109.22 78.5972 90)
+			(at 160.02 113.1728 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2592,22 +2592,22 @@
 	)
 	(global_label "Row 1"
 		(shape input)
-		(at 139.7 78.74 90)
+		(at 207.01 106.68 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "26c17ec1-95dd-443f-ae47-dd9eaf6405cc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.7 69.8282 90)
+			(at 207.01 115.5918 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2636,22 +2636,22 @@
 	)
 	(global_label "JX"
 		(shape input)
-		(at 104.14 83.82 90)
+		(at 165.1 107.95 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "2d6fc4e2-e77e-4cd2-8e62-21f1445f02f8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 104.14 78.6577 90)
+			(at 165.1 113.1123 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2702,22 +2702,22 @@
 	)
 	(global_label "Row 3"
 		(shape input)
-		(at 144.78 78.74 90)
+		(at 201.93 106.68 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "344f9b3c-2a82-4da6-a090-9cb4482efde1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 144.78 69.8282 90)
+			(at 201.93 115.5918 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2812,22 +2812,22 @@
 	)
 	(global_label "ERow 4"
 		(shape input)
-		(at 138.43 121.92 270)
+		(at 208.28 132.08 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "40dd5f90-ee48-4800-81ae-ad023f5a62e7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.43 131.9808 90)
+			(at 208.28 122.0192 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -2900,29 +2900,7 @@
 	)
 	(global_label "Row 4"
 		(shape input)
-		(at 137.16 78.74 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "48ad4250-4a05-464e-bcb1-c6ba38ec1f73")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.16 69.8282 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "EGND"
-		(shape input)
-		(at 107.95 123.19 270)
+		(at 209.55 106.68 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2930,14 +2908,36 @@
 			)
 			(justify right)
 		)
-		(uuid "4cabf170-3df2-4643-a13d-ef5c0d974d81")
+		(uuid "48ad4250-4a05-464e-bcb1-c6ba38ec1f73")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 107.95 131.1947 90)
+			(at 209.55 115.5918 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EGND"
+		(shape input)
+		(at 162.56 130.81 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4cabf170-3df2-4643-a13d-ef5c0d974d81")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 162.56 122.8053 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3120,22 +3120,22 @@
 	)
 	(global_label "EJY"
 		(shape input)
-		(at 113.03 123.19 270)
+		(at 157.48 130.81 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "78015ccf-e942-4bc9-95f6-4050382eebb8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 113.03 129.3804 90)
+			(at 157.48 124.6196 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3230,22 +3230,22 @@
 	)
 	(global_label "E3V3"
 		(shape input)
-		(at 115.57 123.19 270)
+		(at 154.94 130.81 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "89774170-e92d-4023-b248-a1c0cd8e2b55")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 115.57 130.8318 90)
+			(at 154.94 123.1682 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3318,22 +3318,22 @@
 	)
 	(global_label "Row 5"
 		(shape input)
-		(at 132.08 78.74 90)
+		(at 214.63 106.68 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "94e135e0-8591-4696-bf49-abd2c4b81ee1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 132.08 69.8282 90)
+			(at 214.63 115.5918 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3538,22 +3538,22 @@
 	)
 	(global_label "Row 2"
 		(shape input)
-		(at 142.24 78.74 90)
+		(at 204.47 106.68 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "ab372be5-c14e-4828-add1-98804f1a326a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 142.24 69.8282 90)
+			(at 204.47 115.5918 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3582,22 +3582,22 @@
 	)
 	(global_label "JY"
 		(shape input)
-		(at 111.76 83.82 90)
+		(at 157.48 107.95 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "b7fc4764-7dae-4eb3-8195-f8c065fddea2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.76 78.7786 90)
+			(at 157.48 112.9914 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3692,22 +3692,22 @@
 	)
 	(global_label "Col 5"
 		(shape input)
-		(at 134.62 78.74 90)
+		(at 212.09 106.68 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "c946cac9-073c-49c5-a3d6-fd114c800c86")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 134.62 70.4935 90)
+			(at 212.09 114.9265 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3736,22 +3736,22 @@
 	)
 	(global_label "EJX"
 		(shape input)
-		(at 105.41 123.19 270)
+		(at 165.1 130.81 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "d0c16944-1f8f-45c9-8fc5-92d2eb92d4c6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 129.5013 90)
+			(at 165.1 124.4987 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3956,7 +3956,29 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 106.68 83.82 90)
+		(at 162.56 107.95 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e73492bc-d265-4c55-a994-f37070b0ce5c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 162.56 114.8057 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EJC"
+		(shape input)
+		(at 160.02 130.81 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3964,9 +3986,9 @@
 			)
 			(justify left)
 		)
-		(uuid "e73492bc-d265-4c55-a994-f37070b0ce5c")
+		(uuid "e797692b-d24b-479d-b75b-838e04aa8b0a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.68 76.9643 90)
+			(at 160.02 124.4382 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3976,46 +3998,24 @@
 			)
 		)
 	)
-	(global_label "EJC"
-		(shape input)
-		(at 110.49 123.19 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e797692b-d24b-479d-b75b-838e04aa8b0a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 110.49 129.5618 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "ERow 3"
 		(shape input)
-		(at 146.05 121.92 270)
+		(at 200.66 132.08 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "e80cf1db-7f5d-4d97-bfb4-3f80b0ea787f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.05 131.9808 90)
+			(at 200.66 122.0192 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4110,22 +4110,22 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 114.3 83.82 90)
+		(at 154.94 107.95 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "f5f507de-0315-4b8d-a4a8-b6b41f26fb33")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 114.3 77.3272 90)
+			(at 154.94 114.4428 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -4412,7 +4412,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Mounting_Hole")
-		(at 27.94 147.32 0)
+		(at 55.88 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4421,7 +4421,7 @@
 		(fields_autoplaced yes)
 		(uuid "08bb5fe2-cfde-4d51-8c6d-09cb07c13303")
 		(property "Reference" "H5"
-			(at 30.48 146.0499 0)
+			(at 58.42 121.9199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4430,7 +4430,7 @@
 			)
 		)
 		(property "Value" "Mounting_Hole"
-			(at 30.48 148.5899 0)
+			(at 58.42 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4439,7 +4439,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
-			(at 27.94 147.32 0)
+			(at 55.88 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4448,7 +4448,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 147.32 0)
+			(at 55.88 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4457,7 +4457,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 27.94 147.32 0)
+			(at 55.88 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4722,7 +4722,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Mounting_Hole")
-		(at 26.67 153.67 0)
+		(at 55.88 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4731,7 +4731,7 @@
 		(fields_autoplaced yes)
 		(uuid "22d07a27-14c9-4be8-970b-515b6fde1cfd")
 		(property "Reference" "H1"
-			(at 29.21 152.3999 0)
+			(at 58.42 100.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4740,7 +4740,7 @@
 			)
 		)
 		(property "Value" "Mounting_Hole"
-			(at 29.21 154.9399 0)
+			(at 58.42 102.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4749,7 +4749,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
-			(at 26.67 153.67 0)
+			(at 55.88 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4758,7 +4758,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 26.67 153.67 0)
+			(at 55.88 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4767,7 +4767,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 26.67 153.67 0)
+			(at 55.88 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5130,16 +5130,15 @@
 	)
 	(symbol
 		(lib_id "59453-051110ECHLF:59453-051110ECHLF")
-		(at 110.49 113.03 90)
+		(at 160.02 140.97 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "50a48f58-12f1-4bfe-8946-9a730da113f4")
 		(property "Reference" "J3"
-			(at 119.38 111.7599 90)
+			(at 151.13 142.2401 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5148,7 +5147,7 @@
 			)
 		)
 		(property "Value" "59453-051110ECHLF"
-			(at 119.38 114.2999 90)
+			(at 151.13 139.7001 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5157,7 +5156,7 @@
 			)
 		)
 		(property "Footprint" "AMPHENOL_59453-051110ECHLF"
-			(at 110.49 113.03 0)
+			(at 160.02 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5167,7 +5166,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 110.49 113.03 0)
+			(at 160.02 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5176,7 +5175,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 110.49 113.03 0)
+			(at 160.02 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5185,7 +5184,7 @@
 			)
 		)
 		(property "PARTREV" "A"
-			(at 110.49 113.03 0)
+			(at 160.02 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5195,7 +5194,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 110.49 113.03 0)
+			(at 160.02 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5205,7 +5204,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "59453-051110ECHLF"
-			(at 110.49 113.03 0)
+			(at 160.02 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5215,7 +5214,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "3.00mm"
-			(at 110.49 113.03 0)
+			(at 160.02 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5225,7 +5224,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Amphenol"
-			(at 110.49 113.03 0)
+			(at 160.02 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5936,7 +5935,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Mounting_Hole")
-		(at 27.94 137.16 0)
+		(at 55.88 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5945,7 +5944,7 @@
 		(fields_autoplaced yes)
 		(uuid "7e1c6fa3-540e-465a-96cd-9c6c9df3bbb8")
 		(property "Reference" "H3"
-			(at 30.48 135.8899 0)
+			(at 58.42 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5954,7 +5953,7 @@
 			)
 		)
 		(property "Value" "Mounting_Hole"
-			(at 30.48 138.4299 0)
+			(at 58.42 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5963,7 +5962,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
-			(at 27.94 137.16 0)
+			(at 55.88 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5972,7 +5971,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 137.16 0)
+			(at 55.88 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5981,7 +5980,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 27.94 137.16 0)
+			(at 55.88 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6649,7 +6648,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Mounting_Hole")
-		(at 27.94 142.24 0)
+		(at 55.88 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6658,7 +6657,7 @@
 		(fields_autoplaced yes)
 		(uuid "989539d0-7fda-4c94-9c1b-d538e14d62c9")
 		(property "Reference" "H4"
-			(at 30.48 140.9699 0)
+			(at 58.42 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6667,7 +6666,7 @@
 			)
 		)
 		(property "Value" "Mounting_Hole"
-			(at 30.48 143.5099 0)
+			(at 58.42 119.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6676,7 +6675,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
-			(at 27.94 142.24 0)
+			(at 55.88 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6685,7 +6684,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 142.24 0)
+			(at 55.88 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6694,7 +6693,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 27.94 142.24 0)
+			(at 55.88 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7131,7 +7130,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Mounting_Hole")
-		(at 27.94 132.08 0)
+		(at 55.88 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7140,7 +7139,7 @@
 		(fields_autoplaced yes)
 		(uuid "b3fbe55f-1c56-467f-8080-66abef874fcf")
 		(property "Reference" "H2"
-			(at 30.48 130.8099 0)
+			(at 58.42 106.6799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7149,7 +7148,7 @@
 			)
 		)
 		(property "Value" "Mounting_Hole"
-			(at 30.48 133.3499 0)
+			(at 58.42 109.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7158,7 +7157,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
-			(at 27.94 132.08 0)
+			(at 55.88 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7167,7 +7166,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 132.08 0)
+			(at 55.88 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7176,7 +7175,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 27.94 132.08 0)
+			(at 55.88 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7195,7 +7194,7 @@
 	)
 	(symbol
 		(lib_id "59453-081110EDHLF:59453-081110EDHLF")
-		(at 140.97 111.76 90)
+		(at 205.74 142.24 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7204,7 +7203,7 @@
 		(fields_autoplaced yes)
 		(uuid "bab45833-040f-4ba8-b090-66083b4994a2")
 		(property "Reference" "J4"
-			(at 154.94 110.4899 90)
+			(at 191.77 143.5101 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7213,7 +7212,7 @@
 			)
 		)
 		(property "Value" "59453-081110EDHLF"
-			(at 154.94 113.0299 90)
+			(at 191.77 140.9701 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7222,7 +7221,7 @@
 			)
 		)
 		(property "Footprint" "AMPHENOL_59453-081110EDHLF"
-			(at 140.97 111.76 0)
+			(at 205.74 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7232,7 +7231,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 111.76 0)
+			(at 205.74 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7241,7 +7240,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 140.97 111.76 0)
+			(at 205.74 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7250,7 +7249,7 @@
 			)
 		)
 		(property "PARTREV" "D"
-			(at 140.97 111.76 0)
+			(at 205.74 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7260,7 +7259,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 140.97 111.76 0)
+			(at 205.74 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7270,7 +7269,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "3.00mm"
-			(at 140.97 111.76 0)
+			(at 205.74 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7280,7 +7279,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Amphenol"
-			(at 140.97 111.76 0)
+			(at 205.74 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7582,7 +7581,7 @@
 	)
 	(symbol
 		(lib_id "59453-051110ECHLF:59453-051110ECHLF")
-		(at 109.22 93.98 270)
+		(at 160.02 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7591,7 +7590,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc4dc3df-4b79-425e-8c14-e02673507550")
 		(property "Reference" "J2"
-			(at 118.11 92.7099 90)
+			(at 151.13 99.0601 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7600,7 +7599,7 @@
 			)
 		)
 		(property "Value" "59453-051110ECHLF"
-			(at 118.11 95.2499 90)
+			(at 151.13 96.5201 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7609,7 +7608,7 @@
 			)
 		)
 		(property "Footprint" "AMPHENOL_59453-051110ECHLF"
-			(at 109.22 93.98 0)
+			(at 160.02 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7619,7 +7618,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 93.98 0)
+			(at 160.02 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7628,7 +7627,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 93.98 0)
+			(at 160.02 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7637,7 +7636,7 @@
 			)
 		)
 		(property "PARTREV" "A"
-			(at 109.22 93.98 0)
+			(at 160.02 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7647,7 +7646,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 109.22 93.98 0)
+			(at 160.02 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7657,7 +7656,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "59453-051110ECHLF"
-			(at 109.22 93.98 0)
+			(at 160.02 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7667,7 +7666,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "3.00mm"
-			(at 109.22 93.98 0)
+			(at 160.02 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7677,7 +7676,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Amphenol"
-			(at 109.22 93.98 0)
+			(at 160.02 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7970,7 +7969,7 @@
 	)
 	(symbol
 		(lib_id "59453-081110EDHLF:59453-081110EDHLF")
-		(at 142.24 88.9 270)
+		(at 204.47 96.52 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7979,7 +7978,7 @@
 		(fields_autoplaced yes)
 		(uuid "d9b4d4fa-360d-4106-8eb6-01ab8bbdfcaf")
 		(property "Reference" "J5"
-			(at 153.67 87.6299 90)
+			(at 193.04 97.7901 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7988,7 +7987,7 @@
 			)
 		)
 		(property "Value" "59453-081110EDHLF"
-			(at 153.67 90.1699 90)
+			(at 193.04 95.2501 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7997,7 +7996,7 @@
 			)
 		)
 		(property "Footprint" "AMPHENOL_59453-081110EDHLF"
-			(at 142.24 88.9 0)
+			(at 204.47 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8007,7 +8006,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 88.9 0)
+			(at 204.47 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8016,7 +8015,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 142.24 88.9 0)
+			(at 204.47 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8025,7 +8024,7 @@
 			)
 		)
 		(property "PARTREV" "D"
-			(at 142.24 88.9 0)
+			(at 204.47 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8035,7 +8034,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 142.24 88.9 0)
+			(at 204.47 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8045,7 +8044,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "3.00mm"
-			(at 142.24 88.9 0)
+			(at 204.47 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8055,7 +8054,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Amphenol"
-			(at 142.24 88.9 0)
+			(at 204.47 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8763,7 +8762,7 @@
 	)
 	(symbol
 		(lib_id "59453-121110ECHLF:59453-121110ECHLF")
-		(at 71.12 93.98 270)
+		(at 107.95 99.06 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8772,7 +8771,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff44d219-3ae5-41e7-a680-01257ea465fe")
 		(property "Reference" "J1"
-			(at 69.85 101.6 90)
+			(at 109.22 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8780,7 +8779,7 @@
 			)
 		)
 		(property "Value" "59453-121110ECHLF"
-			(at 69.85 104.14 90)
+			(at 109.22 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8788,7 +8787,7 @@
 			)
 		)
 		(property "Footprint" "AMPHENOL_59453-121110ECHLF"
-			(at 71.12 93.98 0)
+			(at 107.95 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8798,7 +8797,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 71.12 93.98 0)
+			(at 107.95 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8807,7 +8806,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 71.12 93.98 0)
+			(at 107.95 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8816,7 +8815,7 @@
 			)
 		)
 		(property "PARTREV" "A"
-			(at 71.12 93.98 0)
+			(at 107.95 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8826,7 +8825,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 71.12 93.98 0)
+			(at 107.95 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8836,7 +8835,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "59453-121110ECHLF"
-			(at 71.12 93.98 0)
+			(at 107.95 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8846,7 +8845,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "3mm"
-			(at 71.12 93.98 0)
+			(at 107.95 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8856,7 +8855,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Amphenol ICC"
-			(at 71.12 93.98 0)
+			(at 107.95 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
