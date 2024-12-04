@@ -52,7 +52,10 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|137749314|90895000|a1f378d7-6d73-4d01-bbc4-2c3b5b10c6e9|7cfe7d6d-dc8c-45ff-88d8-31bd8d8536a7",
+        "clearance|137749314|96570000|80b0106b-1fc2-4c83-a0ad-d0719eb80766|0d99a595-324d-44e7-99be-bb90b9e55081"
+      ],
       "meta": {
         "version": 2
       },
@@ -89,8 +92,8 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
+        "silk_edge_clearance": "ignore",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
@@ -430,7 +433,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "harite.kicad_pro",
+    "filename": "joystick.kicad_pro",
     "version": 1
   },
   "net_settings": {
