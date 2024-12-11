@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "59453-051110ECHLF")(type "KiCad")(uri "${KIPRJMOD}/libraries/harite/symbols/59453-051110ECHLF.kicad_sym")(options "")(descr ""))
+)

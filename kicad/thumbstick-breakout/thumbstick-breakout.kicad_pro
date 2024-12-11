@@ -97,7 +97,7 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "ignore",
-        "silk_over_copper": "ignore",
+        "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "ignore",
@@ -445,7 +445,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "thumbstick.kicad_pro",
+    "filename": "thumbstick-breakout.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -484,7 +484,7 @@
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
-      "svg": "./",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
