@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at -5.75 -1.25 -90)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "User.1")
 		(hide yes)
 		(uuid "3a1dd069-f38f-4f62-8932-898c0371c91e")
 		(effects

@@ -4829,7 +4829,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SKRHADE010"
+		(property "Footprint" "footprints:SKRHADE010"
 			(at 59.69 143.18 0)
 			(effects
 				(font
@@ -5075,7 +5075,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
+		(property "Footprint" "footprints:MountingHole_2.2mm_M2_Pad_Via"
 			(at 105.41 97.79 0)
 			(effects
 				(font
@@ -5311,7 +5311,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SKRHADE010"
+		(property "Footprint" "footprints:SKRHADE010"
 			(at 129.54 143.18 0)
 			(effects
 				(font
@@ -5729,7 +5729,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
+		(property "Footprint" "footprints:MountingHole_2.2mm_M2_Pad_Via"
 			(at 105.41 109.22 0)
 			(effects
 				(font
@@ -5879,7 +5879,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SKRHADE010"
+		(property "Footprint" "footprints:SKRHADE010"
 			(at 199.39 143.18 0)
 			(effects
 				(font
@@ -6519,7 +6519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SKRHADE010"
+		(property "Footprint" "footprints:SKRHADE010"
 			(at 269.24 143.18 0)
 			(effects
 				(font
@@ -6679,7 +6679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
+		(property "Footprint" "footprints:MountingHole_2.2mm_M2_Pad_Via"
 			(at 105.41 104.14 0)
 			(effects
 				(font
@@ -7001,7 +7001,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AMPHENOL_59453-051110ECHLF"
+		(property "Footprint" "footprints:AMPHENOL_59453-051110ECHLF"
 			(at 209.55 93.98 0)
 			(effects
 				(font
@@ -7389,7 +7389,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AMPHENOL_59453-081110EDHLF"
+		(property "Footprint" "footprints:AMPHENOL_59453-081110EDHLF"
 			(at 254 92.71 0)
 			(effects
 				(font
@@ -7853,7 +7853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AMPHENOL_59453-121110ECHLF"
+		(property "Footprint" "footprints:AMPHENOL_59453-121110ECHLF"
 			(at 157.48 95.25 0)
 			(effects
 				(font
