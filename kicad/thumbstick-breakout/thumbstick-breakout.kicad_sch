@@ -1281,19 +1281,6 @@
 		)
 		(uuid "ebd300a9-dfe1-4a75-b4f8-59893b96db43")
 	)
-	(rectangle
-		(start 128.27 90.17)
-		(end 133.35 102.87)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 0a5bb094-ae8e-44e6-a491-93f38447495d)
-	)
 	(label "SEL"
 		(at 139.7 99.06 0)
 		(fields_autoplaced yes)
@@ -1430,6 +1417,7 @@
 					(size 1.778 1.5113)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "Value" "~"
