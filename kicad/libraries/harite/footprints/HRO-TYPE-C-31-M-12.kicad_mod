@@ -1,0 +1,234 @@
+(footprint "HRO-TYPE-C-31-M-12"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.99")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -9.25 0)
+		(layer "F.SilkS")
+		(uuid "99bdfaff-550f-4a7b-b3da-fd25bd2a3db4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "HRO-TYPE-C-31-M-12"
+		(at 0 1.15 0)
+		(layer "Dwgs.User")
+		(uuid "38c2dba3-63ca-48fa-abc7-3ead8de33b3c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cac3534d-8031-44cc-9b33-b9308e4f7290")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c74e99b1-c73d-4a30-9fdd-ed5d7e78203e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89f1101c-c22b-4772-8f05-d94ff6fea45e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.47 -7.3)
+		(end 4.47 -7.3)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "68c37ac0-e790-49a8-b052-bd46e3cdc710")
+	)
+	(fp_line
+		(start -4.47 0)
+		(end -4.47 -7.3)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "1760c79c-17d6-4888-8121-2ee82a47f56c")
+	)
+	(fp_line
+		(start -4.47 0)
+		(end 4.47 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "fb2914b9-3345-48d5-b300-ad70b5274235")
+	)
+	(fp_line
+		(start 4.47 0)
+		(end 4.47 -7.3)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "79744658-4e5a-4daa-9182-9e26f8cd0609")
+	)
+	(pad "" np_thru_hole circle
+		(at -2.89 -6.25)
+		(size 0.65 0.65)
+		(drill 0.65)
+		(layers "*.Cu" "*.Mask")
+		(uuid "a8d092c9-c82a-48d9-b432-41aec2f606eb")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.89 -6.25)
+		(size 0.65 0.65)
+		(drill 0.65)
+		(layers "*.Cu" "*.Mask")
+		(uuid "b73a4cc3-bbdb-4303-90e0-b9e8ebc1576e")
+	)
+	(pad "1" smd rect
+		(at -3.225 -7.695)
+		(size 0.6 1.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e4b7da66-89d2-450d-b283-8d042eae4e02")
+	)
+	(pad "2" smd rect
+		(at -2.45 -7.695)
+		(size 0.6 1.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8b70b2cf-5504-4c09-9bd7-2473ac139fac")
+	)
+	(pad "3" smd rect
+		(at -1.75 -7.695)
+		(size 0.3 1.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "2d67c402-164f-4692-897e-7c9fe59723cc")
+	)
+	(pad "4" smd rect
+		(at -1.25 -7.695)
+		(size 0.3 1.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a78277a8-9c51-41cd-950d-5d4dd5f694a7")
+	)
+	(pad "5" smd rect
+		(at -0.75 -7.695)
+		(size 0.3 1.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a98061cb-e804-44ee-96b4-f1d1ff19c1e6")
+	)
+	(pad "6" smd rect
+		(at -0.25 -7.695)
+		(size 0.3 1.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b2c6d1e0-a468-459d-9367-f0bfdc7ac662")
+	)
+	(pad "7" smd rect
+		(at 0.25 -7.695)
+		(size 0.3 1.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1a60e481-2687-466b-ba57-614d322ea4e4")
+	)
+	(pad "8" smd rect
+		(at 0.75 -7.695)
+		(size 0.3 1.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d215a90b-1d67-474a-9ca8-5e848264d28d")
+	)
+	(pad "9" smd rect
+		(at 1.25 -7.695)
+		(size 0.3 1.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "784b0ad1-4371-4e9f-8d22-0a2d4eb2947e")
+	)
+	(pad "10" smd rect
+		(at 1.75 -7.695)
+		(size 0.3 1.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "dfdf362e-bab8-4d31-a8bd-8710386ccf13")
+	)
+	(pad "11" smd rect
+		(at 2.45 -7.695)
+		(size 0.6 1.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "19ee923a-7b30-4481-9c80-1425c523ca3e")
+	)
+	(pad "12" smd rect
+		(at 3.225 -7.695)
+		(size 0.6 1.45)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a1cfb031-bbe2-494f-98c2-01dbdfbede5c")
+	)
+	(pad "13" thru_hole oval
+		(at -4.32 -6.78)
+		(size 1 2.1)
+		(drill oval 0.6 1.7)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(uuid "5337422d-dad6-496b-ad33-567edc0e8922")
+	)
+	(pad "13" thru_hole oval
+		(at -4.32 -2.6)
+		(size 1 1.6)
+		(drill oval 0.6 1.2)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(uuid "1a798fa9-1ef3-4cc4-8ccb-543d01a9b65a")
+	)
+	(pad "13" thru_hole oval
+		(at 4.32 -6.78)
+		(size 1 2.1)
+		(drill oval 0.6 1.7)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(uuid "50ebabe4-380d-4324-850b-6aac7dfc674c")
+	)
+	(pad "13" thru_hole oval
+		(at 4.32 -2.6)
+		(size 1 1.6)
+		(drill oval 0.6 1.2)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(uuid "8662c87e-1c30-419e-bd83-76edb0508e43")
+	)
+	(model "${KIPRJMOD}/libraries/harite/footprints/HRO  TYPE-C-31-M-12.step"
+		(offset
+			(xyz -4.5 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
