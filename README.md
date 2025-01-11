@@ -1,9 +1,15 @@
 # Harite v2 Directional keyboard
 
-All the features of [Harite v1](https://github.com/dlip/harite) plus
-a modular thumb cluster which allows for various orientations and devices including:
+![Main](./images/main.jpg)
 
-- Thumbsticks
-- Trackballs
-- Cirque trackpads
-- Extra 5 way switches
+All the features of [Harite v1](https://github.com/dlip/harite) plus:
+
+- A modular thumb cluster which allows for various devices including thumbsticks, trackballs, trackpads and extra 5 way switches
+- 1/4-20 camera mount compatible nuts for flexible tenting orientations
+
+## Gallery
+
+![Usage demo](./images/gallery01.jpg)
+![Top down](./images/gallery02.jpg)
+![Left close up](./images/gallery03.jpg)
+![Right close up](./images/gallery04.jpg)
