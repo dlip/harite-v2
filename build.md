@@ -1,5 +1,9 @@
 # Harite v2 Build Guide
 
+## Firmware
+
+- [QMK](https://github.com/dlip/qmk_firmware/tree/dlip/keyboards/haritev2)
+
 ## Vertical thumbstick + trackball configuration
 
 ### Parts
