@@ -28,7 +28,8 @@
 | 8 pin FFC cable type-A 0.5 pitch 5cm length          | 2   | For Thumb cluster [https://www.aliexpress.com/item/1005006274471212.html](https://www.aliexpress.com/item/1005006274471212.html)                                                                     |
 | RP2040-Zero controller with headers 2.5mm height     | 2   |                                                                                                                                                                                                      |
 | SKRHADE010 5-way switches                            | 12  | [https://www.aliexpress.com/item/1005008022179292.html](https://www.aliexpress.com/item/1005008022179292.html)                                                                                       |
-| ps5 hall effect joystick                             | 1   | [https://www.aliexpress.com/item/1005006282848536.html](https://www.aliexpress.com/item/1005006282848536.html)                                                                                       |
+| PS5 hall effect joystick                             | 1   | [https://www.aliexpress.com/item/1005006282848536.html](https://www.aliexpress.com/item/1005006282848536.html)                                                                                       |
+| PS5 thumbstick cap                             | 1   | [https://www.aliexpress.com/item/1005006565311749.html](https://www.aliexpress.com/item/1005006565311749.html)                                                                                       |
 | HRO TYPE-C-31-M-12 USB C female ports                |     |                                                                                                                                                                                                      |
 | USB-C to USB-C cable                                 | 1   | To connect halves                                                                                                                                                                                    |
 | USB-C to USB-A/C cable                               | 1   | To connect to pc                                                                                                                                                                                     |
@@ -47,3 +48,44 @@
 | Trackball BTU top| 1 | [./freecad/trackball-holder-top-btubtu top.stl](./freecad/trackball-holder-top-btubtu%20top.stl) |
 | Switch stems | 12 | [./freecad/caps-stem.stl](./freecad/caps-stem.stl)|
 | Switch X-Ring caps | 12 | [./freecad/caps-xring.stl](./freecad/caps-xring.stl)|
+
+### Building
+
+- Assemble the PCB in basically the same way as the [Harite v1 build guide](https://github.com/dlip/harite/blob/main/build.md)
+- Connect the PMW3389 PCB with insulated wire
+- Solder the FFC connectors - One 8 pin on each side and one 5 pin on the left side
+
+![Build pcb](./images/build-pcb.jpg)
+
+- The switch thumb cluster is built in a similar way, with a 8 pin FFC connector
+
+![Build pcb thumb cluster](./images/build-pcb-thumb-cluster.jpg)
+
+- Solder the thumbstick onto the pcb with a 5 pin FFC connector and attach cap
+
+![Build pcb thumbstick](./images/build-pcb-thumbstick.jpg)
+
+- When building the case insert the knurled nuts as shown
+
+> please ignore the thumb mount spacing from and eariler prototype
+
+![Build Case Nuts](./images/build-case-nuts.jpg)
+
+- Screw on main PCB, the case top, switch caps and thumb mount with M3 screws
+- Melt M2 knurled nuts into trackball holder and screw on PMW3389 pcb
+- Attach the thumb cluster pcb with FFC cable
+
+![Build case mount](./images/build-case-mount.jpg)
+
+- Insert BTU into trackball holder top, melt in M2 knurled nuts and screw on with M2*5 screws
+- Place thumb cluster in tray, melt in M2 knurled nuts to the top case and screw on with M2*5 screws
+
+![Build case thumb cluster](./images/build-case-thumb-cluster.jpg)
+
+- Attach the thumbstick in a similar manner
+
+![](./images/build-case-thumbstick.jpg)
+
+- Done! Welcome to team Harite!
+
+![Team Harite](./images/team-harite.jpg)
