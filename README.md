@@ -17,4 +17,4 @@ To make your own, follow the [build guide](./build.md)
 ![Left close up](./images/gallery03.jpg)
 ![Right close up](./images/gallery04.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kz_-oAf_KqY?si=YNqRXtOQCm8HO9A8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[YouTube video of playing Doom with Harite v2](https://youtu.be/kz_-oAf_KqY)
