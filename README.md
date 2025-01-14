@@ -16,5 +16,6 @@ To make your own, follow the [build guide](./build.md)
 ![Top down](./images/gallery02.jpg)
 ![Left close up](./images/gallery03.jpg)
 ![Right close up](./images/gallery04.jpg)
+![Kettlebell desktop mode 😂](./images/gallery05.jpg)
 
 [YouTube video of playing Doom with Harite v2](https://youtu.be/kz_-oAf_KqY)
