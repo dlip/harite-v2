@@ -20,7 +20,7 @@
 | M3 knurled insert nuts 6mm length 4.2 OD             | 2   | For thumb cluster mount                                                                                                                                                                              |
 | m3*6 screws                                          | 2   | For thumb cluster mount                                                                                                                                                                              |
 | M2 knurled insert nuts 3mm length 3.5mm OD           | 36  | 24 for cases and 12 for switch caps [https://www.aliexpress.com/item/1005003582355741.html](https://www.aliexpress.com/item/1005003582355741.html)                                                   |
-| M2*5 screw                                           | 12  | for switch caps                                                                                                                                                                                      |
+| M2*4 screw                                           | 12  | for switch caps                                                                                                                                                                                      |
 | M2*5 screw                                           | 8   | for base pcb                                                                                                                                                                                         |
 | M2*5 screw                                           | 2   | for PMW3389 pcb mount                                                                                                                                                                                |
 | M2*6 screw                                           | 12  | for main case                                                                                                                                                                                        |
@@ -93,3 +93,30 @@
 - Done! Welcome to team Harite!
 
 ![Team Harite](./images/team-harite.jpg)
+
+## Horizontal Dual Cirque configuration
+
+### Parts
+
+|  Name                                                    | Qty    | Notes                                                                                                                                                                                                     |
+| ---------------------------------------------------- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cirque 40mm Trackpads TM040040-2024-302 with flat overlay | 2   | <https://au.mouser.com/ProductDetail/Cirque/TM040040-2024-302>  |
+| 12 pin FFC connector Amphenol IIC 59453-121110ECHLF | 2   | For cirque [https://www.digikey.com.au/en/products/detail/amphenol-cs-fci/59453-121110ECHLF/4272151](https://www.digikey.com.au/en/products/detail/amphenol-cs-fci/59453-121110ECHLF/4272151)      |
+| 12 pin FFC cable type-A 0.5 pitch 5cm length          | 2   | For cirque [https://www.aliexpress.com/item/1005006274471212.html](https://www.aliexpress.com/item/1005006274471212.html)                                                                     |
+| Rubber feet 1cm diameter or less  | 14   |   |
+| Left thumb mount for thumbstick and thumb cluster  | 1 | [./freecad/left-thumb-mount-horizontalcirque-and-thumb-cluster.stl](./freecad/left-thumb-mount-horizontalcirque-and-thumb-cluster.stl)|
+| Right thumb mount for thumbstick and thumb cluster  | 1 | [./freecad/left-thumb-mount-horizontalcirque-and-thumb-cluster.stl](./freecad/right-thumb-mount-horizontalcirque-and-thumb-cluster.stl)|
+
+### Building
+
+- Solder 12 pin connector to main pcb and connect cirque to test (Some Firmware changes may be necessary)
+
+![Build horizontal pcb](./images/build-horizontal-pcb.jpg)
+
+- Connect mount with thumb cluster
+
+![Build horizontal mount](./images/build-horizontal-mount.jpg)
+
+- Add rubber feet
+
+![Build horizontal feet](./images/build-horizontal-feet.jpg)

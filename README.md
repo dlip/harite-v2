@@ -1,6 +1,7 @@
 # Harite v2 Directional keyboard
 
-![Main](./images/main.jpg)
+![Vertical Harite](./images/main.jpg)
+![Horizontal Harite](./images/main02.jpg)
 
 All the features of [Harite v1](https://github.com/dlip/harite) plus:
 
@@ -17,5 +18,6 @@ To make your own, follow the [build guide](./build.md)
 ![Left close up](./images/gallery03.jpg)
 ![Right close up](./images/gallery04.jpg)
 ![Kettlebell desktop mode 😂](./images/gallery05.jpg)
+![Vertical Harite in use](./images/gallery06.jpg)
 
 [YouTube video of playing Doom with Harite v2](https://youtu.be/kz_-oAf_KqY)
