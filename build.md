@@ -2,7 +2,9 @@
 
 ## Firmware
 
-- [QMK](https://github.com/dlip/qmk_firmware/tree/dlip/keyboards/haritev2)
+- QMK
+  - [Official Repo](https://github.com/qmk/qmk_firmware/tree/master/keyboards/dlip/haritev2)
+  - [My fork with 'Stained' layout](https://github.com/dlip/qmk_firmware/tree/dlip/keyboards/dlip/haritev2/dual_cirque/keymaps/stained)
 
 ## Vertical thumbstick + trackball configuration
 
