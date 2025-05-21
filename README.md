@@ -20,4 +20,6 @@ To make your own, follow the [build guide](./build.md)
 ![Kettlebell desktop mode 😂](./images/gallery05.jpg)
 ![Vertical Harite in use](./images/gallery06.jpg)
 
+[Typing video](https://youtu.be/VckVijPMjfQ)
+
 [YouTube video of playing Doom with Harite v2](https://youtu.be/kz_-oAf_KqY)
